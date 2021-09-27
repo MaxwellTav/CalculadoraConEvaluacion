@@ -1,0 +1,13 @@
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\bin\Debug\CalculadoraConEvaluacion.exe.config
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\bin\Debug\CalculadoraConEvaluacion.exe
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\bin\Debug\CalculadoraConEvaluacion.pdb
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\bin\Debug\Guna.UI2.dll
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.csproj.AssemblyReference.cache
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.SplashScreen.resources
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.Properties.Resources.resources
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.csproj.CopyComplete
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.exe
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.pdb
+C:\Users\maxwe\source\repos\CalculadoraConEvaluacion\CalculadoraConEvaluacion\obj\Debug\CalculadoraConEvaluacion.Forms.MainForm.resources
